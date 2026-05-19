@@ -1,3 +1,12 @@
+---
+
+<div align="center">
+
+# 💻 `whoami`
+
+</div>
+
+```bash
 ┌──(root㉿xdev)-[~/profile]
 └─$ whoami
 
@@ -8,6 +17,7 @@ OS          :: Linux / Windows
 Status      :: Online
 ````
 
+---
 ---
 
 <div align="center">
