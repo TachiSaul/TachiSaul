@@ -8,7 +8,7 @@
 
 ```bash
 ┌──(root㉿xdev)-[~/profile]
-└─$ whoami
+└─$  ๋ ♱ ࣭ ⋆ 𝔰𝔞𝔲𝔩 ๋⋆ ♱`
 
 Name        :: xDev
 Role        :: Systems Engineer
