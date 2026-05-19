@@ -77,8 +77,6 @@ motto: "Code. Break. Learn. Repeat."
 
 # 🖥️ Terminal
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
 </div>
 
 ```bash
