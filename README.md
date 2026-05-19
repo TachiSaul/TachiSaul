@@ -1,13 +1,4 @@
 ````md
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hey+I'm+xDev;%F0%9F%92%80+Cybersecurity+%7C+Systems+Engineer;%F0%9F%9A%80+Building+Tools+%26+Breaking+Limits;%E2%9A%A1+Python+%7C+Linux+%7C+AI+%7C+Automation" />
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
