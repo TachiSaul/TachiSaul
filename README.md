@@ -64,11 +64,7 @@ motto: "Code. Break. Learn. Repeat."
 ---
 
 <div align="center">
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/github-contribution-grid-snake-dark.svg"/>
-
+  
 </div>
 
 ---
