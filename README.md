@@ -1,55 +1,188 @@
+````md
+<div align="center">
 
-### Hey,[Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hey+I'm+xDev;%F0%9F%92%80+Cybersecurity+%7C+Systems+Engineer;%F0%9F%9A%80+Building+Tools+%26+Breaking+Limits;%E2%9A%A1+Python+%7C+Linux+%7C+AI+%7C+Automation" />
 
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+---
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+<div align="center">
 
-## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+# 💻 `whoami`
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+</div>
 
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
-	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Also, I've got a **Youtube Channel, [The Broke Coder](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
+```bash
+┌──(root㉿xdev)-[~/profile]
+└─$ whoami
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+Name        :: xDev
+Role        :: Systems Engineer
+Focus       :: Cybersecurity & Automation
+OS          :: Linux / Windows
+Status      :: Online
+````
+
+---
+
+<div align="center">
+
+# ⚔️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,nodejs,react,linux,bash,docker,mysql,mongodb,git,github,vscode,html,css,php,java,discord,firebase&perline=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 About Me
+
+</div>
+
+```yaml
+name: xDev
+
+current_focus:
+  - Cybersecurity
+  - Reverse Engineering
+  - Discord Bots
+  - Automation Systems
+  - Artificial Intelligence
+
+currently_learning:
+  - Malware Analysis
+  - Kernel Stuff
+  - Offensive Security
+
+hobbies:
+  - Coding at 3AM
+  - Breaking things
+  - Linux customization
+  - Building weird projects
+
+motto: "Code. Break. Learn. Repeat."
+```
+
+---
+
+<div align="center">
+
+# 🌐 Socials
+
+<a href="https://github.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/TUID">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🖥️ Terminal
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+</div>
+
+```bash
+┌──(root㉿xdev)-[~/access]
+└─$ sudo ./access.sh
+
+[sudo] password for root:
+ACCESS GRANTED
+
+Welcome back xDev...
+Initializing systems...
+Loading exploits...
+Connection secured.
+```
+
+---
+
+<div align="center">
+
+# 📡 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 👀 Visitors
+
+<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=PROFILE+VIEWS&color=00ffee&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚠️ SYSTEM STATUS
+
+```diff
++ SYSTEM ONLINE
++ USER AUTHENTICATED
++ NETWORK SECURED
++ ENCRYPTION ENABLED
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=140&section=footer"/>
+
+</div>
+```
