@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 💻 `whoami`
+# 💻 ` ๋ ♱ ࣭ ⋆ 𝔰𝔞𝔲𝔩 ๋⋆ ♱`
 
 </div>
 
@@ -18,6 +18,7 @@ Status      :: Online
 ````
 
 ---
+
 ---
 
 <div align="center">
