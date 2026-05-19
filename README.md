@@ -65,20 +65,6 @@ motto: "Code. Break. Learn. Repeat."
 
 <div align="center">
 
-# 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/github-contribution-grid-snake-dark.svg"/>
@@ -114,7 +100,7 @@ Connection secured.
 
 # 📡 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xDev&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -154,4 +140,3 @@ Connection secured.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=140&section=footer"/>
 
 </div>
-```
