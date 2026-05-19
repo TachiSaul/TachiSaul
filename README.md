@@ -60,7 +60,6 @@ hobbies:
 
 motto: "Code. Break. Learn. Repeat."
 ```
-
 ---
 
 <div align="center">
