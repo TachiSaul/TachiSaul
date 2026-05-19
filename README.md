@@ -67,10 +67,6 @@ motto: "Code. Break. Learn. Repeat."
   
 </div>
 
----
-
-<div align="center">
-
 # 🖥️ Terminal
 
 </div>
