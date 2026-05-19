@@ -65,30 +65,6 @@ motto: "Code. Break. Learn. Repeat."
 
 <div align="center">
 
-# 🌐 Socials
-
-<a href="https://github.com/TUUSUARIO">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/TUID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 # 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
